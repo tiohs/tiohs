@@ -4,7 +4,7 @@
 
 Learning day by day and helping devs. Enthusiast of technology and lover of React & NodeJS stack.
 
-- 🔭 I’m currently working on Student Experience team at [unituenda](https://www.unituenda.ao/) 💜
+- 🔭 I’m currently working on Student Experience team at [unituenda](http://www.unituenda.ao/) 💜
 - 🌱 I’m currently learning NodeJS, ReactJS, React Native, Typescript, Docker and Jest;
 - 💬 Ask me about technology, series and games;
 - 📫 How to reach me: The badges will help you 😉
