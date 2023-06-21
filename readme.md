@@ -16,10 +16,7 @@ Learning day by day and helping devs. Enthusiast of technology and lover of Reac
 [![Instagram Badge](https://img.shields.io/badge/-@__tiohs-1F6FEB?style=flat-square&labelColor=1F6FEB&logo=instagram&logoColor=white&link=https://www.instagram.com/tiohs.u/)](https://www.instagram.com/tiohs.u/)
 
 <div>
-<a href="https://github.com/tiohs">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tiohs&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiohs&layout=compact&langs_count=7&theme=algolia"/>
-</a>
+
 </div>
 
  ![Snake animation](https://github.com/tiohs/tiohs/blob/output/github-contribution-grid-snake.svg)
